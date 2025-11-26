@@ -1,0 +1,9 @@
+name: AccountsHook-MMOProfiles
+author: SkytAsul
+description: Bridges MMOProfiles into AccountsHook
+version: ${project.version}
+api-version: 1.17
+main: fr.skytasul.accounts.mmoprofiles.MMOProfilesHook
+depends:
+- AccountsHook
+- MMOProfiles
